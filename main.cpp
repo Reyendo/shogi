@@ -2,9 +2,9 @@
 
 using namespace std;
 
-bool quit = 0;
 int main()
 {
+	bool quit = 0;
 	while(!quit)
 	{
 	}
